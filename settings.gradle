@@ -1,0 +1,3 @@
+rootProject.name = "OperatingDBClient"
+include ':app'
+include ':operatingdbremoteservice'
